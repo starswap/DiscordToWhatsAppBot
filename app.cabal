@@ -6,7 +6,7 @@ version:            0.1.0.0
 synopsis: A Discord to WhatsApp Bot
 
 -- A longer description of the package.
--- description:
+description: A prototype for a bot which can sync messages from a Discord channel to WhatsApp, using Twilio.
 
 -- A URL where users can report bugs.
 -- bug-reports:
@@ -15,7 +15,7 @@ synopsis: A Discord to WhatsApp Bot
 -- license:
 
 -- The package author(s).
--- author:
+author: Hamish Starling, Tom Smail, Quentin Duff 
 
 -- An email address to which users can send suggestions, bug reports, and patches.
 -- maintainer:
